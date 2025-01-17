@@ -5,6 +5,8 @@
   "homepage": "https://AmrElkaramany.github.io/Assign1",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+      "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
