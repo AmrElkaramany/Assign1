@@ -2,11 +2,11 @@
   "name": "startframework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AmrElkaraamany.github.io/RoutingAssign",
+  "homepage": "https://AmrElkaraamany.github.io/test1",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist",
+   "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
