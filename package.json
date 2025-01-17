@@ -2,7 +2,7 @@
   "name": "startframework",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://AmrElkaraamany.github.io/Assign1",
+  "homepage": "https://AmrElkaraamany.github.io/RoutingAssign",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
